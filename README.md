@@ -1,5 +1,10 @@
-# 💫 About Me:
-Highly motivated and detail-oriented Computer Science/Engineering student with a foundation in Python, C, Java, <br>DBMS, and IoT. Adept at problem-solving, writing clean and efficient code, and integrating backend systems. Possess <br>excellent communication skills, with a proven ability to collaborate effectively in team environments. Passionate about <br>continuous learning and eager to contribute to impactful technology-driven solutions. 
+### Hi there 👋 I'm [Your Name]!
+
+A curious Computer Science Engineering student driven by a passion for understanding the 'why' and 'how' behind technology. I thrive on problem-solving, crafting clean, efficient code, and exploring how systems integrate.
+
+With a solid foundation in Python, C, Java, DBMS, and IoT, I'm currently diving deep into Python for backend development and scripting, and sharpening my skills in C++.
+
+I don't believe in rote memorization; I believe in tinkering, experimenting, and letting curiosity lead the way to impactful solutions. Let's build something great!
 
 
 ## 🌐 Socials:
