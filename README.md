@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Your Name]!
+### Hi there, I'm Vamshi!
 
 A curious Computer Science Engineering student driven by a passion for understanding the 'why' and 'how' behind technology. I thrive on problem-solving, crafting clean, efficient code, and exploring how systems integrate.
 
